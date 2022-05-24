@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.gimazovbulat.idk.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.gimazovbulat.idk.MyBundle
 
 class MyApplicationService {
 
